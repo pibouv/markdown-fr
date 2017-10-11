@@ -33,3 +33,4 @@ What is true about the following line: ```![Funny cat](http://cats.ru/funny.png 
 > Similarly to links, images can have 3 parts: the alternative text, the url and a title. An exclamation mark is nesessary.
 
 ---
+

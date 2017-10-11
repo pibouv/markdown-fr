@@ -49,12 +49,12 @@ Select the valid headers:
 > Headers need space between the hash characters and the text.
 
 Select the valid headers:
-- [ ]  
+- [ ]
 ```
 test
 ########
 ```
-- [x]   
+- [x]
 ```
 test
 =======
